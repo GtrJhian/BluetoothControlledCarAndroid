@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_size">16dp</dimen>
+    <drawable name="bg_base">@color/colorPrimaryDark</drawable>
+    <drawable name="bg_stick">@color/colorPrimary</drawable>
+    <dimen name="stick_size">16dp</dimen>
+</resources>
